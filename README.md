@@ -1,4 +1,6 @@
-# demo
-This my first repositoray
+# Bano Qabil Project
+Members:
 <br>
-Author - Sameed
+Muhammad Sameed
+Muhammad Huzaifa
+Muhammad Rehan
